@@ -1,0 +1,15 @@
+{
+  "name": "rps-bot",
+  "version": "1.0.0",
+  "description": "A Twtich rock, paper, scissors bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roby Palmer-Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
